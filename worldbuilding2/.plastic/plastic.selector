@@ -1,0 +1,4 @@
+repository "worldbuilding2@BUILDER_GAME@cloud"
+  path "/"
+    br "/main"
+    co "/main"

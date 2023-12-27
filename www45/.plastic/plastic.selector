@@ -1,0 +1,4 @@
+repository "www45@BUILDER_GAME@cloud"
+  path "/"
+    br "/main"
+    co "/main"
