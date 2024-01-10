@@ -1,0 +1,212 @@
+[
+  {
+    "MountId": "56e62dd7-241f-41e9-8c6b-dd4ca4513e62",
+    "AncestorCsetIds": [
+      1
+    ],
+    "SourceCsetId": 3,
+    "DestinationCsetId": 1,
+    "FileConflicts": [
+      {
+        "Path": "/Packages/manifest.json",
+        "ItemId": 132,
+        "ParentItemId": 128,
+        "BaseRevId": 102,
+        "SourceRevId": 274,
+        "DestinationRevId": 102
+      },
+      {
+        "Path": "/Packages/packages-lock.json",
+        "ItemId": 133,
+        "ParentItemId": 128,
+        "BaseRevId": 103,
+        "SourceRevId": 275,
+        "DestinationRevId": 103
+      },
+      {
+        "Path": "/ProjectSettings/AudioManager.asset",
+        "ItemId": 134,
+        "ParentItemId": 130,
+        "BaseRevId": 104,
+        "SourceRevId": 276,
+        "DestinationRevId": 104
+      },
+      {
+        "Path": "/ProjectSettings/ClusterInputManager.asset",
+        "ItemId": 135,
+        "ParentItemId": 130,
+        "BaseRevId": 105,
+        "SourceRevId": 277,
+        "DestinationRevId": 105
+      },
+      {
+        "Path": "/ProjectSettings/DynamicsManager.asset",
+        "ItemId": 136,
+        "ParentItemId": 130,
+        "BaseRevId": 106,
+        "SourceRevId": 278,
+        "DestinationRevId": 106
+      },
+      {
+        "Path": "/ProjectSettings/EditorBuildSettings.asset",
+        "ItemId": 137,
+        "ParentItemId": 130,
+        "BaseRevId": 107,
+        "SourceRevId": 279,
+        "DestinationRevId": 107
+      },
+      {
+        "Path": "/ProjectSettings/EditorSettings.asset",
+        "ItemId": 138,
+        "ParentItemId": 130,
+        "BaseRevId": 108,
+        "SourceRevId": 280,
+        "DestinationRevId": 108
+      },
+      {
+        "Path": "/ProjectSettings/GraphicsSettings.asset",
+        "ItemId": 139,
+        "ParentItemId": 130,
+        "BaseRevId": 109,
+        "SourceRevId": 281,
+        "DestinationRevId": 109
+      },
+      {
+        "Path": "/ProjectSettings/InputManager.asset",
+        "ItemId": 140,
+        "ParentItemId": 130,
+        "BaseRevId": 110,
+        "SourceRevId": 282,
+        "DestinationRevId": 110
+      },
+      {
+        "Path": "/ProjectSettings/MemorySettings.asset",
+        "ItemId": 141,
+        "ParentItemId": 130,
+        "BaseRevId": 111,
+        "SourceRevId": 283,
+        "DestinationRevId": 111
+      },
+      {
+        "Path": "/ProjectSettings/MultiplayerManager.asset",
+        "ItemId": 142,
+        "ParentItemId": 130,
+        "BaseRevId": 112,
+        "SourceRevId": 284,
+        "DestinationRevId": 112
+      },
+      {
+        "Path": "/ProjectSettings/NavMeshAreas.asset",
+        "ItemId": 143,
+        "ParentItemId": 130,
+        "BaseRevId": 113,
+        "SourceRevId": 285,
+        "DestinationRevId": 113
+      },
+      {
+        "Path": "/ProjectSettings/PackageManagerSettings.asset",
+        "ItemId": 144,
+        "ParentItemId": 130,
+        "BaseRevId": 114,
+        "SourceRevId": 286,
+        "DestinationRevId": 114
+      },
+      {
+        "Path": "/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json",
+        "ItemId": 160,
+        "ParentItemId": 158,
+        "BaseRevId": 115,
+        "SourceRevId": 287,
+        "DestinationRevId": 115
+      },
+      {
+        "Path": "/ProjectSettings/Physics2DSettings.asset",
+        "ItemId": 147,
+        "ParentItemId": 130,
+        "BaseRevId": 116,
+        "SourceRevId": 288,
+        "DestinationRevId": 116
+      },
+      {
+        "Path": "/ProjectSettings/PresetManager.asset",
+        "ItemId": 148,
+        "ParentItemId": 130,
+        "BaseRevId": 117,
+        "SourceRevId": 289,
+        "DestinationRevId": 117
+      },
+      {
+        "Path": "/ProjectSettings/ProjectSettings.asset",
+        "ItemId": 149,
+        "ParentItemId": 130,
+        "BaseRevId": 118,
+        "SourceRevId": 290,
+        "DestinationRevId": 118
+      },
+      {
+        "Path": "/ProjectSettings/ProjectVersion.txt",
+        "ItemId": 150,
+        "ParentItemId": 130,
+        "BaseRevId": 119,
+        "SourceRevId": 291,
+        "DestinationRevId": 119
+      },
+      {
+        "Path": "/ProjectSettings/QualitySettings.asset",
+        "ItemId": 151,
+        "ParentItemId": 130,
+        "BaseRevId": 120,
+        "SourceRevId": 292,
+        "DestinationRevId": 120
+      },
+      {
+        "Path": "/ProjectSettings/TagManager.asset",
+        "ItemId": 152,
+        "ParentItemId": 130,
+        "BaseRevId": 121,
+        "SourceRevId": 293,
+        "DestinationRevId": 121
+      },
+      {
+        "Path": "/ProjectSettings/TimeManager.asset",
+        "ItemId": 153,
+        "ParentItemId": 130,
+        "BaseRevId": 122,
+        "SourceRevId": 294,
+        "DestinationRevId": 122
+      },
+      {
+        "Path": "/ProjectSettings/UnityConnectSettings.asset",
+        "ItemId": 154,
+        "ParentItemId": 130,
+        "BaseRevId": 123,
+        "SourceRevId": 295,
+        "DestinationRevId": 123
+      },
+      {
+        "Path": "/ProjectSettings/VersionControlSettings.asset",
+        "ItemId": 155,
+        "ParentItemId": 130,
+        "BaseRevId": 124,
+        "SourceRevId": 296,
+        "DestinationRevId": 124
+      },
+      {
+        "Path": "/ProjectSettings/VFXManager.asset",
+        "ItemId": 156,
+        "ParentItemId": 130,
+        "BaseRevId": 125,
+        "SourceRevId": 297,
+        "DestinationRevId": 125
+      },
+      {
+        "Path": "/ProjectSettings/XRSettings.asset",
+        "ItemId": 157,
+        "ParentItemId": 130,
+        "BaseRevId": 126,
+        "SourceRevId": 298,
+        "DestinationRevId": 126
+      }
+    ]
+  }
+]
